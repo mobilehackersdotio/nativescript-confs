@@ -32,7 +32,7 @@ You can also ping us on [twitter](https://twitter.com/mobilehackersio).
 
 Contributors
 -------------------
-waiting for contributors ...
+[Charles Mitchell](https://github.com/chuckmitchell)
 
 
 License
